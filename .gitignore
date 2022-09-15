@@ -1,0 +1,7 @@
+build/
+esp_idf_components
+Pedometer_1V8.ioc
+.cproject
+.project
+CMakeLists.txt
+LICENSE
