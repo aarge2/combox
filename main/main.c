@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <unistd.h>
-#include "esp_err.h"                // for error handling
-#include "driver/uart.h"            // for uart port number defines
+#include "esp_err.h"
+#include "driver/uart.h"
 #include "esp_modbus_master.h"
 #include "driver/gpio.h"
 #include "freertos/timers.h"
